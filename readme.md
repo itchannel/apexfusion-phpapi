@@ -40,5 +40,5 @@ foreach ($apex->apexlog as $logentry)
   //Lookup and print device name from log
   echo $apex->devices[$log->did];
 }
-
+?>
 ```
