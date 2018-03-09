@@ -6,7 +6,7 @@ Code needs cleaning and optimising still WIP.
 
 Below is sample code to hook into the PHP Class File
 
-'''
+```
 <?php
 include "apex.php"
 //Initate Class
@@ -35,4 +35,4 @@ foreach ($apex->apexlog as $logentry)
   echo $apex->devices[$log->did];
 }
 
-'''
+```
