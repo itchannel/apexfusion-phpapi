@@ -1,10 +1,16 @@
-Rough Project!
+# Rough PHP Apexfusion Project!
 
 Used it for my own project but thought it might help a few people. 
 
 Code needs cleaning and optimising still WIP.
 
-Below is sample code to hook into the PHP Class File
+### TODO
+* Add alarm log
+* Add previous probe statistics
+* Add configuration viewing
+* Add raw output arrays (Allow for getting variables from all data retrieved)
+
+### Below is sample code to hook into the PHP Class File
 
 ```
 <?php
