@@ -14,7 +14,7 @@ Code needs cleaning and optimising still WIP.
 
 ```
 <?php
-include "apex.php"
+include "apex.php";
 //Initate Class
 $apex = new Apex();
 //Set Credential Variables for apexfusion.com
